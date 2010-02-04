@@ -1,0 +1,5 @@
+all:
+  sfErrorNotifier:
+    emailTo:      admin@example.com # Change this with your debug email
+
+ 
