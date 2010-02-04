@@ -13,5 +13,6 @@ Fork from sfErrorNotifierPlugin available on ([the symfony website](http://www.s
 
 
 **2010-02-04**
+
 * Remove unused method like alert
 * Send mail with the configure mail instead of use the built-in mail function
